@@ -7,6 +7,7 @@ This enhancement focuses on the software design and modularity of the InventoryA
 ### What’s Included:
 - `AddItemActivity.java`: Handles the logic for adding new inventory items
 - `EditItemActivity.java`: Allows editing and deleting existing items
+- `activity_add_item.xml` and `activity_edit_item.xml`: Support structured layouts and user-friendly interaction
 - UI components use structured layouts with improved responsiveness
 
 ### Enhancement Goals:
