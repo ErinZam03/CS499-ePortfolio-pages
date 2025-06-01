@@ -1,4 +1,4 @@
-# Algorithms & Data Structures Enhancement
+# Algorithms and Data Structures Enhancement
 
 ## Artifact: InventoryApp – List Filtering and Sorting
 
