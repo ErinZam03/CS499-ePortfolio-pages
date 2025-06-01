@@ -1,4 +1,4 @@
-# Software Design & Engineering Enhancement
+# Software Design and Engineering Enhancement
 
 ## Artifact: Inventory App
 
