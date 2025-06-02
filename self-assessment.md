@@ -2,6 +2,7 @@
 layout: default
 title: Professional Self-Assessment
 ---
+[🏠 Return to Home](/CS499-ePortfolio-pages/)
 
 # 🧑‍💻 Professional Self-Assessment
 
