@@ -50,6 +50,6 @@ The following pages present each enhancement and the decisions behind them:
 - [Software Design and Engineering Enhancement](software-design/)
 - [Algorithms and Data Structures Enhancement](algorithms-data/)
 - [Database Enhancement](database/)
-- [Code Review Video](https://your-code-review-link.com)
+- [Code Review Video](https://youtu.be/lNzyICNeNcA)
 
 Thank you for taking the time to explore my work!
