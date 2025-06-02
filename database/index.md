@@ -2,6 +2,7 @@
 layout: default
 title: Database Enhancement
 ---
+[🏠 Return to Home](/CS499-ePortfolio-pages/)
 
 # 🗃️ Database Enhancement
 
