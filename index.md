@@ -25,6 +25,4 @@ I'm **Erin Zamora**, and this site showcases my journey through the SNHU Compute
 
 ## 📝 About This Project
 
-This capstone artifact demonstrates my growth as a software developer. I selected one comprehensive project and applied enhancements across all three categories, showcasing my flexibility and depth as a computer scientist.
-
-
+This capstone artifact represents the progress I’ve made throughout my computer science journey. By selecting a single comprehensive project—the Inventory App—and enhancing it across three core areas, I’ve demonstrated not only my technical skills but also my adaptability and problem-solving mindset as a software developer.
