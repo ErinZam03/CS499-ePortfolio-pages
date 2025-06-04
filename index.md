@@ -18,7 +18,7 @@ I'm **Erin Zamora**, and this site showcases my journey through the SNHU Compute
 - [Professional Self-Assessment](self-assessment.md)
 - [Software Design Enhancement](software-design/)
 - [Algorithms and Data Structures Enhancement](algorithms-data/)
-- [Database Enhancement](database/index.md)
+- [Database Enhancement](database/)
 - [Code Review Video](https://youtu.be/lNzyICNeNcA)
 
 ---
